@@ -9,4 +9,3 @@ Each folder in this repository represents different stages in an api project's l
 - withmongodb/ : Shows how to handle application configuration using viper, and how make a mongodb connection, and pass it alongside the configuration using struct compositions and methods. 
 - withmgonclosures/ : Shows how to pass around application configuration or other shared data around the application using closures, and some of the problems that can arise from using closures. 
 
-
